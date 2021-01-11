@@ -1,0 +1,10 @@
+[0m[[0m[0minfo[0m] [0m[0m:: delivering :: scx#sbt-scala-jooq-codegen;0.1.0-SNAPSHOT :: 0.1.0-SNAPSHOT :: integration :: Tue Sep 22 10:41:20 EDT 2020[0m
+[0m[[0m[0mdebug[0m] [0m[0m	options = status=integration pubdate=Tue Sep 22 10:41:20 EDT 2020 validate=true resolveDynamicRevisions=true merge=true resolveId=null pubBranch=null[0m
+[0m[[0m[0minfo[0m] [0m[0m	delivering ivy file to /Users/angelo/Documents/workspace/scala-jooq-codegen/plugin/target/scala-2.12/sbt-1.0/ivy-0.1.0-SNAPSHOT.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	deliver done (13ms)[0m
+[0m[[0m[0mdebug[0m] [0m[0mlocal do not support transaction. ivy pattern does not use revision as a directory[0m
+[0m[[0m[0minfo[0m] [0m[0m	published sbt-scala-jooq-codegen to /Users/angelo/.ivy2/local/scx/sbt-scala-jooq-codegen/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/poms/sbt-scala-jooq-codegen.pom[0m
+[0m[[0m[0minfo[0m] [0m[0m	published sbt-scala-jooq-codegen to /Users/angelo/.ivy2/local/scx/sbt-scala-jooq-codegen/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/jars/sbt-scala-jooq-codegen.jar[0m
+[0m[[0m[0minfo[0m] [0m[0m	published sbt-scala-jooq-codegen to /Users/angelo/.ivy2/local/scx/sbt-scala-jooq-codegen/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/srcs/sbt-scala-jooq-codegen-sources.jar[0m
+[0m[[0m[0minfo[0m] [0m[0m	published sbt-scala-jooq-codegen to /Users/angelo/.ivy2/local/scx/sbt-scala-jooq-codegen/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/docs/sbt-scala-jooq-codegen-javadoc.jar[0m
+[0m[[0m[0minfo[0m] [0m[0m	published ivy to /Users/angelo/.ivy2/local/scx/sbt-scala-jooq-codegen/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/ivys/ivy.xml[0m

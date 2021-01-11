@@ -1,0 +1,92 @@
+package
+reload
+package
+;set _root_.scala.collection.Seq(historyPath := None,shellPrompt := { _ => "" },SettingKey[_root_.scala.Option[_root_.sbt.File]]("sbtStructureOutputFile") in _root_.sbt.Global := _root_.scala.Some(_root_.sbt.file("/private/var/folders/1p/lhvmlcv52p58hgmjzfzgrntr0000gn/T/sbt-structure.xml")),SettingKey[_root_.java.lang.String]("sbtStructureOptions") in _root_.sbt.Global := "download, resolveClassifiers, resolveSbtClassifiers");apply -cp "/Users/angelo/Library/Application Support/IntelliJIdea2019.1/Scala/repo/org.jetbrains/sbt-structure-extractor/scala_2.12/sbt_1.0/2018.2.1+4-88400d3f/jars/sbt-structure-extractor.jar" org.jetbrains.sbt.CreateTasks;*/*:dumpStructure
+compile
+reload
+compile
+reload
+compile
+clean
+reload
+compile
+reload
+compile
+last scala-jooq-codegen-test-jooq / update
+reload
+compile
+reload
+compile
+reload
+compile
+ls -l
+compile
+reload
+compile
+reload
+compile
+reload
+compile
+clean
+reload
+compile
+reload
+compile
+clean
+compile
+reload
+compile
+rerelo
+reload
+compile
+reload
+compile
+reload
+compile
+reload
+compile
+reload
+compile
+clean
+compile
+reload
+clean
+compile
+reload
+compile
+reload
+compile
+clean
+compile
+;set _root_.scala.collection.Seq(historyPath := None,shellPrompt := { _ => "" },SettingKey[_root_.scala.Option[_root_.sbt.File]]("sbtStructureOutputFile") in _root_.sbt.Global := _root_.scala.Some(_root_.sbt.file("/private/var/folders/1p/lhvmlcv52p58hgmjzfzgrntr0000gn/T/sbt-structure.xml")),SettingKey[_root_.java.lang.String]("sbtStructureOptions") in _root_.sbt.Global := "download, resolveClassifiers, resolveSbtClassifiers");apply -cp "/Users/angelo/Library/Application Support/JetBrains/IntelliJIdea2020.2/plugins/Scala/repo/org.jetbrains/sbt-structure-extractor/scala_2.12/sbt_1.0/2018.2.1+4-88400d3f/jars/sbt-structure-extractor.jar" org.jetbrains.sbt.CreateTasks;*/*:dumpStructure
+compile
+reload
+compile
+;set _root_.scala.collection.Seq(historyPath := None,shellPrompt := { _ => "" },SettingKey[_root_.scala.Option[_root_.sbt.File]]("sbtStructureOutputFile") in _root_.sbt.Global := _root_.scala.Some(_root_.sbt.file("/private/var/folders/1p/lhvmlcv52p58hgmjzfzgrntr0000gn/T/sbt-structure.xml")),SettingKey[_root_.java.lang.String]("sbtStructureOptions") in _root_.sbt.Global := "download, resolveClassifiers, resolveSbtClassifiers");apply -cp "/Users/angelo/Library/Application Support/JetBrains/IntelliJIdea2020.2/plugins/Scala/repo/org.jetbrains/sbt-structure-extractor/scala_2.12/sbt_1.0/2018.2.1+4-88400d3f/jars/sbt-structure-extractor.jar" org.jetbrains.sbt.CreateTasks;*/*:dumpStructure
+publishLocal
+reload
+publishLocal
+publish
+r
+reload
+hi
+publishLocal
+reload
+;set _root_.scala.collection.Seq(historyPath := None,shellPrompt := { _ => "" },SettingKey[_root_.scala.Option[_root_.sbt.File]]("sbtStructureOutputFile") in _root_.sbt.Global := _root_.scala.Some(_root_.sbt.file("/private/var/folders/1p/lhvmlcv52p58hgmjzfzgrntr0000gn/T/sbt-structure.xml")),SettingKey[_root_.java.lang.String]("sbtStructureOptions") in _root_.sbt.Global := "download, resolveClassifiers, resolveSbtClassifiers");apply -cp "/Users/angelo/Library/Application Support/JetBrains/IntelliJIdea2020.2/plugins/Scala/repo/org.jetbrains/sbt-structure-extractor/scala_2.12/sbt_1.0/2018.2.1+4-88400d3f/jars/sbt-structure-extractor.jar" org.jetbrains.sbt.CreateTasks;*/*:dumpStructure
+publishLocal
+reload
+compile
+publishLocal
+reload
+publishLocal
+reload
+publishLocal
+clean
+compile
+publishLocal
+publishM2
+publishLocal
+;publishLocal; publishM2
+publishLocal
+;publishLocal; publishM2
+;set _root_.scala.collection.Seq(historyPath := None,shellPrompt := { _ => "" },SettingKey[_root_.scala.Option[_root_.sbt.File]]("sbtStructureOutputFile") in _root_.sbt.Global := _root_.scala.Some(_root_.sbt.file("/private/var/folders/1p/lhvmlcv52p58hgmjzfzgrntr0000gn/T/sbt-structure.xml")),SettingKey[_root_.java.lang.String]("sbtStructureOptions") in _root_.sbt.Global := "download, resolveClassifiers, resolveSbtClassifiers");apply -cp "/Users/angelo/Library/Application Support/JetBrains/IntelliJIdea2020.2/plugins/Scala/repo/org.jetbrains/sbt-structure-extractor/scala_2.12/sbt_1.0/2018.2.1+4-88400d3f/jars/sbt-structure-extractor.jar" org.jetbrains.sbt.CreateTasks;*/*:dumpStructure

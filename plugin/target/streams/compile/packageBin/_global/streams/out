@@ -1,0 +1,37 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /Users/angelo/Documents/workspace/scala-jooq-codegen/plugin/target/scala-2.12/sbt-1.0/sbt-scala-jooq-codegen-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	sbt[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/angelo/Documents/workspace/scala-jooq-codegen/plugin/target/scala-2.12/sbt-1.0/classes/sbt[0m
+[0m[[0m[0mdebug[0m] [0m[0m	sbt/sbt.autoplugins[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/angelo/Documents/workspace/scala-jooq-codegen/plugin/target/scala-2.12/sbt-1.0/classes/sbt/sbt.autoplugins[0m
+[0m[[0m[0mdebug[0m] [0m[0m	scx[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/angelo/Documents/workspace/scala-jooq-codegen/plugin/target/scala-2.12/sbt-1.0/classes/scx[0m
+[0m[[0m[0mdebug[0m] [0m[0m	scx/sbt[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/angelo/Documents/workspace/scala-jooq-codegen/plugin/target/scala-2.12/sbt-1.0/classes/scx/sbt[0m
+[0m[[0m[0mdebug[0m] [0m[0m	scx/sbt/jooq[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/angelo/Documents/workspace/scala-jooq-codegen/plugin/target/scala-2.12/sbt-1.0/classes/scx/sbt/jooq[0m
+[0m[[0m[0mdebug[0m] [0m[0m	scx/sbt/jooq/scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/angelo/Documents/workspace/scala-jooq-codegen/plugin/target/scala-2.12/sbt-1.0/classes/scx/sbt/jooq/scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	scx/sbt/jooq/scala/codegen[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/angelo/Documents/workspace/scala-jooq-codegen/plugin/target/scala-2.12/sbt-1.0/classes/scx/sbt/jooq/scala/codegen[0m
+[0m[[0m[0mdebug[0m] [0m[0m	scx/sbt/jooq/scala/codegen/JooqScalaCodegenKeys$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/angelo/Documents/workspace/scala-jooq-codegen/plugin/target/scala-2.12/sbt-1.0/classes/scx/sbt/jooq/scala/codegen/JooqScalaCodegenKeys$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	scx/sbt/jooq/scala/codegen/ScalaCodegenStrategy$IfAbsent$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/angelo/Documents/workspace/scala-jooq-codegen/plugin/target/scala-2.12/sbt-1.0/classes/scx/sbt/jooq/scala/codegen/ScalaCodegenStrategy$IfAbsent$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	scx/sbt/jooq/scala/codegen/JooqScalaCodegenPlugin$autoImport$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/angelo/Documents/workspace/scala-jooq-codegen/plugin/target/scala-2.12/sbt-1.0/classes/scx/sbt/jooq/scala/codegen/JooqScalaCodegenPlugin$autoImport$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	scx/sbt/jooq/scala/codegen/JooqScalaCodegenPlugin.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/angelo/Documents/workspace/scala-jooq-codegen/plugin/target/scala-2.12/sbt-1.0/classes/scx/sbt/jooq/scala/codegen/JooqScalaCodegenPlugin.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	scx/sbt/jooq/scala/codegen/JooqScalaCodegenKeys.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/angelo/Documents/workspace/scala-jooq-codegen/plugin/target/scala-2.12/sbt-1.0/classes/scx/sbt/jooq/scala/codegen/JooqScalaCodegenKeys.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	scx/sbt/jooq/scala/codegen/ScalaCodegenStrategy$Never$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/angelo/Documents/workspace/scala-jooq-codegen/plugin/target/scala-2.12/sbt-1.0/classes/scx/sbt/jooq/scala/codegen/ScalaCodegenStrategy$Never$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	scx/sbt/jooq/scala/codegen/ScalaCodegenStrategy$Always$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/angelo/Documents/workspace/scala-jooq-codegen/plugin/target/scala-2.12/sbt-1.0/classes/scx/sbt/jooq/scala/codegen/ScalaCodegenStrategy$Always$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	scx/sbt/jooq/scala/codegen/ScalaCodegenStrategy$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/angelo/Documents/workspace/scala-jooq-codegen/plugin/target/scala-2.12/sbt-1.0/classes/scx/sbt/jooq/scala/codegen/ScalaCodegenStrategy$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	scx/sbt/jooq/scala/codegen/JooqScalaCodegenPlugin$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/angelo/Documents/workspace/scala-jooq-codegen/plugin/target/scala-2.12/sbt-1.0/classes/scx/sbt/jooq/scala/codegen/JooqScalaCodegenPlugin$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	scx/sbt/jooq/scala/codegen/ScalaCodegenStrategy.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/angelo/Documents/workspace/scala-jooq-codegen/plugin/target/scala-2.12/sbt-1.0/classes/scx/sbt/jooq/scala/codegen/ScalaCodegenStrategy.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

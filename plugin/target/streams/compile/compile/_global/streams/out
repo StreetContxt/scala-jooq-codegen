@@ -1,0 +1,88 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/angelo/Documents/workspace/scala-jooq-codegen/plugin/src/main/scala/scx/sbt/jooq/scala/codegen/JooqScalaCodegenPlugin.scala:26:33: not found: value codegen[0m
+[0m[[0m[31merror[0m] [0m[0m    type ScalaCodegenStrategy = codegen.ScalaCodegenStrategy[0m
+[0m[[0m[31merror[0m] [0m[0m                                ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/angelo/Documents/workspace/scala-jooq-codegen/plugin/src/main/scala/scx/sbt/jooq/scala/codegen/JooqScalaCodegenPlugin.scala:27:32: not found: value codegen[0m
+[0m[[0m[31merror[0m] [0m[0m    val ScalaCodegenStrategy = codegen.ScalaCodegenStrategy[0m
+[0m[[0m[31merror[0m] [0m[0m                               ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/angelo/Documents/workspace/scala-jooq-codegen/plugin/src/main/scala/scx/sbt/jooq/scala/codegen/JooqScalaCodegenPlugin.scala:34:64: not found: value JooqScalaCodegen[0m
+[0m[[0m[31merror[0m] [0m[0m  override def projectConfigurations: Seq[Configuration] = Seq(JooqScalaCodegen)[0m
+[0m[[0m[31merror[0m] [0m[0m                                                               ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/angelo/Documents/workspace/scala-jooq-codegen/plugin/src/main/scala/scx/sbt/jooq/scala/codegen/JooqScalaCodegenPlugin.scala:43:12: not found: value JooqScalaCodegen[0m
+[0m[[0m[31merror[0m] [0m[0m          (JooqScalaCodegen / autoScalaLibrary).value && (JooqScalaCodegen / scalaHome).value.isEmpty[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/angelo/Documents/workspace/scala-jooq-codegen/plugin/src/main/scala/scx/sbt/jooq/scala/codegen/JooqScalaCodegenPlugin.scala:43:59: not found: value JooqScalaCodegen[0m
+[0m[[0m[31merror[0m] [0m[0m          (JooqScalaCodegen / autoScalaLibrary).value && (JooqScalaCodegen / scalaHome).value.isEmpty[0m
+[0m[[0m[31merror[0m] [0m[0m                                                          ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/angelo/Documents/workspace/scala-jooq-codegen/plugin/src/main/scala/scx/sbt/jooq/scala/codegen/JooqScalaCodegenPlugin.scala:44:17: not found: value JooqScalaCodegen[0m
+[0m[[0m[31merror[0m] [0m[0m            && (JooqScalaCodegen / managedScalaInstance).value,[0m
+[0m[[0m[31merror[0m] [0m[0m                ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/angelo/Documents/workspace/scala-jooq-codegen/plugin/src/main/scala/scx/sbt/jooq/scala/codegen/JooqScalaCodegenPlugin.scala:46:12: not found: value JooqScalaCodegen[0m
+[0m[[0m[31merror[0m] [0m[0m          (JooqScalaCodegen / scalaOrganization).value,[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/angelo/Documents/workspace/scala-jooq-codegen/plugin/src/main/scala/scx/sbt/jooq/scala/codegen/JooqScalaCodegenPlugin.scala:47:12: not found: value JooqScalaCodegen[0m
+[0m[[0m[31merror[0m] [0m[0m          (JooqScalaCodegen / scalaVersion).value[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/angelo/Documents/workspace/scala-jooq-codegen/plugin/src/main/scala/scx/sbt/jooq/scala/codegen/JooqScalaCodegenPlugin.scala:51:16: not found: value JooqScalaCodegen[0m
+[0m[[0m[31merror[0m] [0m[0m      inConfig(JooqScalaCodegen)([0m
+[0m[[0m[31merror[0m] [0m[0m               ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/angelo/Documents/workspace/scala-jooq-codegen/plugin/src/main/scala/scx/sbt/jooq/scala/codegen/JooqScalaCodegenPlugin.scala:60:51: not found: value JooqScalaCodegen[0m
+[0m[[0m[31merror[0m] [0m[0m      Slf4jSimplePlugin.slf4jSimpleScopedSettings(JooqScalaCodegen) ++[0m
+[0m[[0m[31merror[0m] [0m[0m                                                  ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/angelo/Documents/workspace/scala-jooq-codegen/plugin/src/main/scala/scx/sbt/jooq/scala/codegen/JooqScalaCodegenPlugin.scala:61:16: not found: value JooqScalaCodegen[0m
+[0m[[0m[31merror[0m] [0m[0m      inConfig(JooqScalaCodegen)([0m
+[0m[[0m[31merror[0m] [0m[0m               ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/angelo/Documents/workspace/scala-jooq-codegen/plugin/src/main/scala/scx/sbt/jooq/scala/codegen/JooqScalaCodegenPlugin.scala:74:9: not found: value jooqScalaCodegen[0m
+[0m[[0m[31merror[0m] [0m[0m        jooqScalaCodegen := codegenTask.value,[0m
+[0m[[0m[31merror[0m] [0m[0m        ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/angelo/Documents/workspace/scala-jooq-codegen/plugin/src/main/scala/scx/sbt/jooq/scala/codegen/JooqScalaCodegenPlugin.scala:85:12: not found: value jooqScalaCodegen[0m
+[0m[[0m[31merror[0m] [0m[0m      if ((jooqScalaCodegen / skip).value) Def.task(Seq.empty[File])[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/angelo/Documents/workspace/scala-jooq-codegen/plugin/src/main/scala/scx/sbt/jooq/scala/codegen/JooqScalaCodegenPlugin.scala:88:59: value / is not a member of java.io.File[0m
+[0m[[0m[31merror[0m] [0m[0m          val directory = (Compile / sourceManaged).value / "jooqScala"[0m
+[0m[[0m[31merror[0m] [0m[0m                                                          ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/angelo/Documents/workspace/scala-jooq-codegen/plugin/src/main/scala/scx/sbt/jooq/scala/codegen/JooqScalaCodegenPlugin.scala:89:21: not found: value jooqScalaPackage[0m
+[0m[[0m[31merror[0m] [0m[0m          val pkg = jooqScalaPackage.value[0m
+[0m[[0m[31merror[0m] [0m[0m                    ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/angelo/Documents/workspace/scala-jooq-codegen/plugin/src/main/scala/scx/sbt/jooq/scala/codegen/JooqScalaCodegenPlugin.scala:90:25: not found: value jooqScalaCatalog[0m
+[0m[[0m[31merror[0m] [0m[0m          val catalog = jooqScalaCatalog.value[0m
+[0m[[0m[31merror[0m] [0m[0m                        ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/angelo/Documents/workspace/scala-jooq-codegen/plugin/src/main/scala/scx/sbt/jooq/scala/codegen/JooqScalaCodegenPlugin.scala:93:16: not found: value JooqScalaCodegen[0m
+[0m[[0m[31merror[0m] [0m[0m              (JooqScalaCodegen / run)[0m
+[0m[[0m[31merror[0m] [0m[0m               ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/angelo/Documents/workspace/scala-jooq-codegen/plugin/src/main/scala/scx/sbt/jooq/scala/codegen/JooqScalaCodegenPlugin.scala:98:17: not found: value jooqScalaCodegenGeneratedSourcesFinder[0m
+[0m[[0m[31merror[0m] [0m[0m                jooqScalaCodegenGeneratedSourcesFinder.value.get[0m
+[0m[[0m[31merror[0m] [0m[0m                ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/angelo/Documents/workspace/scala-jooq-codegen/plugin/src/main/scala/scx/sbt/jooq/scala/codegen/JooqScalaCodegenPlugin.scala:75:9: not found: value jooqScalaCodegenStrategy[0m
+[0m[[0m[31merror[0m] [0m[0m        jooqScalaCodegenStrategy := ScalaCodegenStrategy.IfAbsent,[0m
+[0m[[0m[31merror[0m] [0m[0m        ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/angelo/Documents/workspace/scala-jooq-codegen/plugin/src/main/scala/scx/sbt/jooq/scala/codegen/JooqScalaCodegenPlugin.scala:106:12: not found: value jooqScalaCodegen[0m
+[0m[[0m[31merror[0m] [0m[0m      if ((jooqScalaCodegen / skip).value) Def.task(Seq.empty[File])[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/angelo/Documents/workspace/scala-jooq-codegen/plugin/src/main/scala/scx/sbt/jooq/scala/codegen/JooqScalaCodegenPlugin.scala:109:11: not found: value jooqScalaCodegenStrategy[0m
+[0m[[0m[31merror[0m] [0m[0m          jooqScalaCodegenStrategy.value match {[0m
+[0m[[0m[31merror[0m] [0m[0m          ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/angelo/Documents/workspace/scala-jooq-codegen/plugin/src/main/scala/scx/sbt/jooq/scala/codegen/JooqScalaCodegenPlugin.scala:110:49: not found: value jooqScalaCodegen[0m
+[0m[[0m[31merror[0m] [0m[0m            case ScalaCodegenStrategy.Always => jooqScalaCodegen[0m
+[0m[[0m[31merror[0m] [0m[0m                                                ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/angelo/Documents/workspace/scala-jooq-codegen/plugin/src/main/scala/scx/sbt/jooq/scala/codegen/JooqScalaCodegenPlugin.scala:113:29: not found: value jooqScalaCodegenGeneratedSourcesFinder[0m
+[0m[[0m[31merror[0m] [0m[0m                val files = jooqScalaCodegenGeneratedSourcesFinder.value.get[0m
+[0m[[0m[31merror[0m] [0m[0m                            ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/angelo/Documents/workspace/scala-jooq-codegen/plugin/src/main/scala/scx/sbt/jooq/scala/codegen/JooqScalaCodegenPlugin.scala:114:36: not found: value jooqScalaCodegen[0m
+[0m[[0m[31merror[0m] [0m[0m                if (files.isEmpty) jooqScalaCodegen else Def.task(files)[0m
+[0m[[0m[31merror[0m] [0m[0m                                   ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/angelo/Documents/workspace/scala-jooq-codegen/plugin/src/main/scala/scx/sbt/jooq/scala/codegen/JooqScalaCodegenPlugin.scala:77:9: not found: value jooqScalaCodegenGeneratedSources[0m
+[0m[[0m[31merror[0m] [0m[0m        jooqScalaCodegenGeneratedSources / includeFilter := "*.scala",[0m
+[0m[[0m[31merror[0m] [0m[0m        ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/angelo/Documents/workspace/scala-jooq-codegen/plugin/src/main/scala/scx/sbt/jooq/scala/codegen/JooqScalaCodegenPlugin.scala:78:9: not found: value jooqScalaCodegenGeneratedSources[0m
+[0m[[0m[31merror[0m] [0m[0m        jooqScalaCodegenGeneratedSources := jooqScalaCodegenGeneratedSourcesFinder.value.get,[0m
+[0m[[0m[31merror[0m] [0m[0m        ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/angelo/Documents/workspace/scala-jooq-codegen/plugin/src/main/scala/scx/sbt/jooq/scala/codegen/JooqScalaCodegenPlugin.scala:78:45: not found: value jooqScalaCodegenGeneratedSourcesFinder[0m
+[0m[[0m[31merror[0m] [0m[0m        jooqScalaCodegenGeneratedSources := jooqScalaCodegenGeneratedSourcesFinder.value.get,[0m
+[0m[[0m[31merror[0m] [0m[0m                                            ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/angelo/Documents/workspace/scala-jooq-codegen/plugin/src/main/scala/scx/sbt/jooq/scala/codegen/JooqScalaCodegenPlugin.scala:79:9: not found: value jooqScalaCodegenGeneratedSourcesFinder[0m
+[0m[[0m[31merror[0m] [0m[0m        jooqScalaCodegenGeneratedSourcesFinder := generatedSourcesFinderTask.value[0m
+[0m[[0m[31merror[0m] [0m[0m        ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/angelo/Documents/workspace/scala-jooq-codegen/plugin/src/main/scala/scx/sbt/jooq/scala/codegen/JooqScalaCodegenPlugin.scala:123:55: value / is not a member of java.io.File[0m
+[0m[[0m[31merror[0m] [0m[0m      val directory = (Compile / sourceManaged).value / "jooqScala"[0m
+[0m[[0m[31merror[0m] [0m[0m                                                      ^[0m
+[0m[[0m[31merror[0m] [0m[0m29 errors found[0m
